@@ -1,0 +1,11 @@
+
+    8  touch Khoa.txt
+    9  echo "It works" >> Khoa.txt
+   10  git clone https://github.com/khoa1995/test
+   11  git init
+   12  git status
+   13  git add Khoa.txt
+   14  cd test
+   15  git add Khoa.txt
+   16  git status // hi?n n?i dung trong folder
+
